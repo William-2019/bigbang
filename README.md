@@ -1,2 +1,2 @@
 # bigbang
-python+linux+
+
